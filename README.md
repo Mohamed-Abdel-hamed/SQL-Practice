@@ -35,7 +35,7 @@ By acquiring proficiency in SQL Server, you'll unlock a powerful tool for managi
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/">Employees Earning More Than Their Managers</a></td>
-      <td><a href="https://github.com/Mohamed-Abdel-hamed/SQL-Server-Practice/blob/master/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql" Solution </a></td>
+      <td><a href="https://github.com/Mohamed-Abdel-hamed/SQL-Server-Practice/blob/master/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql" >Solution </a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/customers-who-never-order/">Customers Who Never Order</a></td>
@@ -63,7 +63,7 @@ By acquiring proficiency in SQL Server, you'll unlock a powerful tool for managi
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/invalid-tweets/">Invalid Tweets</a></td>
-      <td><a href="https://github.com/Mohamed-Abdel-hamed/SQL-Server-Practice/blob/master/1683.%20Invalid%20Tweets.sql" ></a>Solution </a></td>
+      <td><a href="https://github.com/Mohamed-Abdel-hamed/SQL-Server-Practice/blob/master/1683.%20Invalid%20Tweets.sql" >Solution </a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/">Replace Employee ID with the Unique Identifier</a></td>
